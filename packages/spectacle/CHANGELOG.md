@@ -1,5 +1,11 @@
 # Changelog
 
+## 11.0.0
+
+### Major Changes
+
+- RR initial version ([`52489ed`](https://github.com/FormidableLabs/spectacle/commit/52489ed2d517b5533cfe41d17b1ad4077ebf54de))
+
 ## 10.1.8
 
 ### Patch Changes
